@@ -855,8 +855,8 @@ input.mail_bt::placeholder {
     font-size: 16px;
     color: #f26522;
     background-color: transparent;
-    padding: 20px 0px 5px 0px;
-    border-radius: 30px;
+    padding: 20px 0px 5px 350px;
+    border-radius: 20px;
     border: 0px;
     text-transform: uppercase;
     text-align: right;
